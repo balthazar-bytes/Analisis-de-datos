@@ -5,6 +5,7 @@
 # 2. Usando listas por comprensión.
 # Cada elemento debe aparecer tantas veces como en
 # la lista original.
+
 lista1 = [1,2,3]
 lista2 = [1,2,3,45,6,7,2]
 
